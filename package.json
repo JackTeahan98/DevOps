@@ -4,7 +4,7 @@
   "description": "zoo website performing CRUD on all documents",
   "main": "config.js",
   "scripts": {
-    "test": "echo \"Tests Passed\"
+    "test": "echo \"Tests Passed\" && exit 1"
   },
   "author": "",
   "license": "ISC",
